@@ -1,5 +1,5 @@
-### example-palette
-# this repo provides an example of colour palette
+example-palette
+=================
 
 ### Example json
 
@@ -119,3 +119,10 @@ you need to add `66` like this `#00000066`
 
 ***
 
+### Example fonts
+
+please refer to [palette.json](https://github.com/rolique-ios/example-palette/blob/master/fonts/), in order to see example fonts directory
+
+### questions and proposals
+
+for any questions and propolsals, regarding this repo please contact [Andrii Narinian](mailto:andrii.narinian@rolique.io)
