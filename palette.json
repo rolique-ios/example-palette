@@ -1,0 +1,36 @@
+{
+  "projectName_palette_v_1": {
+    "dartk_theme": {
+       "common": {
+          "font_title": "#394a5c",
+          "font_subtitle": "#48596b",
+       },
+       "dashboard": {
+          "dashboard_background": "#f5ca89",
+          "dashboard_button_title": "#43c9de",
+          "dashboard_button_title_alpha_05": "#43c9de80",
+       }
+    },
+    "light_theme": {
+       "common": {
+          "font_title": "#f5f0e1",
+          "font_subtitle": "#d6d3c9",
+       },
+       "dashboard": {
+          "dashboard_background": "#f5ca89",
+          "dashboard_button_title": "#43c9de",
+          "dashboard_button_title_alpha_05": "#43c9de80",
+       }
+    },
+    "unicorn_theme": {
+       "common": {
+          "font_title": "#ed45d7",
+          "font_subtitle": "#20fae4",
+       },
+       "dashboard": {
+          "dashboard_background": "#f5ca89",
+          "dashboard_button_title": "#43c9de",
+          "dashboard_button_title_alpha_05": "#43c9de80",
+       }
+    },
+}
