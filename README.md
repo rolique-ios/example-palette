@@ -121,7 +121,7 @@ you need to add `66` like this `#00000066`
 
 ### Example fonts
 
-please refer to [fonts directory](https://github.com/rolique-ios/example-palette/blob/master/fonts/), in order to see example fonts directory
+please refer to [fonts directory](https://github.com/rolique-ios/example-palette/blob/master/fonts/), in order to see example fonts
 
 ### questions and proposals
 
