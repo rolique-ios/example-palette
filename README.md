@@ -1,4 +1,4 @@
-# example-palette
+#### example-palette
 this repo provides an example of colour palette
 
 ### Example json
@@ -6,12 +6,12 @@ this repo provides an example of colour palette
 please refer to [palette.json](https://github.com/rolique-ios/example-palette/blob/master/palette.json), in order to see how to structure your palette
 
 ### Alpha component for hex color
-produce hexadecimal colors with alpha component by adding extra two symbols at the end of color string
-```
+# produce hexadecimal colors with alpha component by adding extra two symbols at the end of color string
+
 For example, 
 you want to set **40%** alpha transparence to `#000000` (black color), 
 you need to add `66` like this `#00000066`
-```
+
 ### All hex value from 100% to 0% alpha:
 
 - **100% — FF**
